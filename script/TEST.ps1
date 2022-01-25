@@ -1,0 +1,3 @@
+<# TESTER #>
+
+invoke-pester
